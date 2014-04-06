@@ -20,7 +20,7 @@
     "express": "^3.5.1"
   },
   "engines": {
-    "node": "0.10.26",
+    "node": "0.10.26"
   },
   "homepage": "https://github.com/davewesson/nwen304-lab2"
 }
